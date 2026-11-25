@@ -1,6 +1,6 @@
 How to run
 
-in terminal \n
+in terminal
 
 cd /gundam-database
 
